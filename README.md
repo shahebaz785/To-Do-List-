@@ -3,6 +3,13 @@ A simple and interactive web-based to-do list application built with HTML, CSS, 
 This project allows users to create, manage, and track their daily tasks efficiently.
 
 
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/34ceadac-712b-49cf-b608-49eecb97c45b" />
+
+
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/ec856096-7a7a-4ed6-844f-048e5626bbdb" />
+
+
+
 Features :-
 Add New Tasks: Easily add new tasks to your list by typing in the input field and pressing Enter or clicking the "Add" button.
 

@@ -107,3 +107,39 @@ body{
 .editBtn{
    color: green;
 }
+// Responsive for mobile
+@media (max-width: 600px) {
+    body {
+        padding: 15px;
+    }
+
+    .container {
+        padding: 20px;
+    }
+    h1 {
+        font-size: 1.8em;
+    }
+
+    .input-container {
+        flex-direction: column;
+    }
+    
+    #addBtn {
+        width: 55%; /* Makes the button full width on mobile */
+    }
+
+    .todoList li {
+        flex-direction: column; /* Stacks text and buttons vertically */
+        align-items: stretch; /* Stretches items to fill the width */
+        gap: 2px;
+    }
+
+    .todoList li p {
+        text-align: center;
+    }
+
+    .todoList li .btn {
+        width: 100%;
+        text-align: center;
+    }
+}
